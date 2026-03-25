@@ -12,17 +12,14 @@ body{
     font-family:system-ui,sans-serif;
     color:#fff;
 }
-
 h1{
     font-size:2rem;
     margin:0 0 1rem;
 }
-
 p{
     font-size:1.1rem;
     margin:0 0 1.5rem;
 }
-
 button{
     padding:.8rem 2rem;
     border:0;
@@ -32,7 +29,6 @@ button{
     font-size:1rem;
     cursor:pointer;
 }
-
 footer{
     position:absolute;
     bottom:0;       
