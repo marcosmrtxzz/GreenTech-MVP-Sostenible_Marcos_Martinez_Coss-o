@@ -1,1 +1,0 @@
-# GreenTech-MVP-Sostenible_Marcos_Martinez_Coss-o

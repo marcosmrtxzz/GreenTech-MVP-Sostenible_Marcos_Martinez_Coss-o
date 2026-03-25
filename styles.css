@@ -1,0 +1,44 @@
+/*He puesto todo esto en el body para que este */
+body{
+    margin:0;
+    height:100vh;
+    overflow:hidden;
+    background:url("https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?q=80&w=3000&auto=format&fit=crop") center/cover no-repeat;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    font-family:system-ui,sans-serif;
+    color:#fff;
+}
+
+h1{
+    font-size:2rem;
+    margin:0 0 1rem;
+}
+
+p{
+    font-size:1.1rem;
+    margin:0 0 1.5rem;
+}
+
+button{
+    padding:.8rem 2rem;
+    border:0;
+    border-radius:2rem;
+    background:#28a745;
+    color:#fff;
+    font-size:1rem;
+    cursor:pointer;
+}
+
+footer{
+    position:absolute;
+    bottom:0;       
+    width:100%;    
+    text-align:center;   
+    padding:.5rem 0;
+    font-size:.9rem;
+    color:#eee;    
+}
